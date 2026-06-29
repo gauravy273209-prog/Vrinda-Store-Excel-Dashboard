@@ -1,2 +1,34 @@
-# Sales-Analysis-Excel
- Analyzed 12 months of multi-channel sales data; identified top product categories contributing 60%+ of total revenue and key YoY  growth trends.  • Built an interactive Power BI dashboard with drill-down by category, region, and customer segment; delivered a strategic recom-  mendations report.
+# 📊 Sales Analysis Dashboard (Excel)
+
+## Project Overview
+This project analyzes 12 months of sales data to identify revenue trends, top-performing products, customer segments, and regional performance using Microsoft Excel.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Conditional Formatting
+- Slicers
+- Dashboard Design
+
+## Business Problem
+The objective was to help management understand sales performance and identify opportunities to increase revenue.
+
+## Key Insights
+- Top product categories generated over 60% of total revenue.
+- Sales peaked during festive months.
+- West region achieved the highest sales.
+- Female customers contributed more revenue than male customers.
+
+## Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Excel Automation
